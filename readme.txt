@@ -1,3 +1,6 @@
 Git is a version control system,Git is a distributed version control system .
 Git is free software.
-do you know what i mean
+do you know what i mean?
+Git is a version control system,
+Git is free software
+
